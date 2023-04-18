@@ -1,3 +1,11 @@
+{- 
+    DEVOIR 3
+    Auteurs : Ylli Fazlija, Rui Mota Carneiro
+    Date : 18.04.23
+    Description : Programme Haskell fournissant une implémentation des nombres naturels ainsi
+    que des différents opérateurs pouvant être utilisés avec ceux-ci.
+-}
+
 data Nat = Zero | Succ Nat
 
 --Comparison operators
